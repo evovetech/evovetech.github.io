@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on &lt;span class=&#39;evove&#39;&gt;evove&lt;/span&gt;&lt;span class=&#39;dot&#39;&gt;.&lt;/span&gt;&lt;span class=&#39;tech&#39;&gt;tech&lt;/span&gt;</title>
+    <title>Posts on evove.tech</title>
     <link>http://evovetech.github.io/posts/</link>
-    <description>Recent content in Posts on &lt;span class=&#39;evove&#39;&gt;evove&lt;/span&gt;&lt;span class=&#39;dot&#39;&gt;.&lt;/span&gt;&lt;span class=&#39;tech&#39;&gt;tech&lt;/span&gt;</description>
+    <description>Recent content in Posts on evove.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
